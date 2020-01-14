@@ -6,3 +6,4 @@ something
 something
 something
 something
+Git has a mutable index called stage.
