@@ -7,3 +7,6 @@ something
 something
 something
 Git has a mutable index called stage.
+do something
+
+today is good day.
