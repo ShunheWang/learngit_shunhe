@@ -18,4 +18,4 @@ dsdsdsjkluqnfqj
 
 
 dsadasdadsadasdsadsadsadasdsaddwdas
-something others
+Creating a new branch is quick and simple.
